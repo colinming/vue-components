@@ -1,0 +1,11 @@
+1、采用vuejs；
+
+2、视频地址：网盘vuejs
+
+3、笔记：有道云笔记 vuejs
+
+4、github地址：https://github.com/SimonZhangITer/VueDemo_Sell_Eleme
+
+5、源码：
+      vuejs\github案例\饿了吗平台点餐app
+
